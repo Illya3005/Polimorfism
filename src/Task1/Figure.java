@@ -1,0 +1,4 @@
+
+interface Figure {
+    double returnSquare();
+}
